@@ -1,4 +1,3 @@
 # Rlabs-Introductory-Statistics
-In here, I  include 24 computer programs written in R that I have used in a introductory data analysis class at the University of Puerto Rico. 
-The programs cover material from descriptive statistics, computing probabilities by simulation, probability distributions, and inferential statistics.
+Aqui se incluyen 24 programas escritos en R que son usados en una clase introductoria de Analisis de Datos en la  Universidad de Puerto Rico.  La clase es ofrecida por el Dr. Edgar Acuna del Departamento de Ciencias Matematicas. Los programas cubren material de estadistica descriptiva, calculo de probabilidades usando simulacion, dirtribuciones de probabilidad e inferencia estadistica,
 
